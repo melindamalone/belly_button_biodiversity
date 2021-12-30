@@ -6,4 +6,4 @@ Please use the interactive charts on the [Belly Button Biodiversity Dashboard](h
 
 The interactive web data visualization was created using Plotly.js, a JavaScript data visualization library, HTML, and basic JavaScript to increase audience participation and understanding. D3.json() was used to fetch external data such as CSV files and web APIs, and data was parsed in JSON format. Functional programming, JavaScript's Math library, and Event Handlers were used to manipulate the data and add interactivity to the data visualization.  The index.html file was deployed to GitHub pages to allow users the ease of clicking on a weblink to access the data visualization.
 
-![](Images/Belly_Button_Biodiversity.JPG)
+![](Images/Belly_Button_Biodiversity.jpg)
